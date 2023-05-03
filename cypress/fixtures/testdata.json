@@ -1,0 +1,45 @@
+{
+    "username" : "akhilkalluri",
+    "password" : "Testing123",
+    "Client_Name" :"Client1130",
+    "Client_Description": "Test Client",
+    "VenueName": "Venue628",
+    "VenueTaxRate":"NY",
+    "clientType":"Commercial",
+    "TheatreName":"theatre1130",
+    "TheatreQBName":"theatre:1130",
+    "TheatreQBClassName":"QBOClass1130",
+    "salesName":"Sales628",
+    "PosFirstName":"olivi",
+    "PosLastName":"brossd",
+    "PosUserName":"Olivieossardd",
+    "PosPin":"9625",
+    "UserRoleName": "Team Lead628",
+    "UserFirstName": "steven miless628",
+    "UserLastName":"evanmiless628",
+    "UserEmail":"stevenevanmiless628",
+    "UserPassword":"Testing628",
+    "createUserName":"stevenEvanssmiless628",
+    "InputInventory":"Inventory:Inventory - CinemaHals,",
+    "vendorName":"Anheuser-Busch - AA",
+    "good1":"Add shot",
+    "good2":"Aladdin Cookie",
+    "InputCOGS":"Standard COGS Theaters :STD COG MovieHalls",
+    "InputRevenue":"Operating Revenue:Oper Rev - Corvs",
+    "CreateGood_Name":"mango Juices",
+    "CreateGood_Itemtype": "Inventory Items",
+    "CreateGood_Category": "Piece Items",
+    "CreateKit_Name":"Mango beverage Juices",
+    "CreateKit_Category":"Candy/Snacks",
+    "CreateMenu_Name": "Movie central Menus",
+    "OrderReference":"9491",
+    "showName":"Moon Knight"
+    
+
+
+
+
+
+
+
+}
